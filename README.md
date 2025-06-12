@@ -206,4 +206,5 @@ Li Jinghan, Tian Jiamei, Zhang Junyi, Final Project
 ### image.png
 - 图片内容展示了黄杨钿甜"天价耳环"舆情分析报告的生成过程及部分内容预览，包括报告结构、数据概况、事件背景等关键信息的呈现界面。
 - 图片中显示了报告撰写的关键步骤和最终文档的预览效果，直观反映了从数据收集到报告成型的完整流程。
+![扣子开发过程截图](https://github.com/user-attachments/assets/6b4eed0e-a6da-4292-adfd-58aff9abef0c)
 
