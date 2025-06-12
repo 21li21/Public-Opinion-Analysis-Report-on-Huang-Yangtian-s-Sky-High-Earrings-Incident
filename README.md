@@ -1,5 +1,5 @@
 # Public-Opinion-Analysis-Report-on-Huang-Yangtian-s-Sky-High-Earrings-Incident
-Li Jinghan, Tian Jiamei, Zhang Junyi, Final Project
+Li Jinghan, Tian Jiaming, Zhang Junyi, Final Project
 # 黄杨钿甜"天价耳环"事件markdown文件
 
 ## 一、引言
